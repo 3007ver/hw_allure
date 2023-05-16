@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IssueNameTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-16T13:22:48" hostname="LAPTOP-UBO7B164" time="1.971">
+  <properties/>
+  <testcase name="Шаги с аннотацией @Step" classname="IssueNameTests" time="1.971"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 113.0.5672.63 (0e1a4471d5ae5bf128b1bd8f4d627c8cbd55f70c-refs/branch-heads/5672@{#912}) on port 31807
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+мая 16, 2023 4:22:46 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 113, so returning the closest version found: 110
+]]></system-err>
+</testsuite>
